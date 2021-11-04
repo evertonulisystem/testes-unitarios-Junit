@@ -9,12 +9,12 @@ public class Calculos {
             }
         return soma;
     }
-    public boolean informaNumeroPar (int numero) {
-        if (numero % 2 ==0) {
-            return true;
-        } return false;
-    }
-    public double raizQuadradaDeDoisNumeros(double numero){
-          return Math.sqrt(numero);
-        }
+//    public boolean informaNumeroPar (int numero) {
+//        if (numero % 2 ==0) {
+//            return true;
+//        } return false;
+//    }
+//    public double raizQuadradaDeDoisNumeros(double numero){
+//          return Math.sqrt(numero);
+//        }
 }

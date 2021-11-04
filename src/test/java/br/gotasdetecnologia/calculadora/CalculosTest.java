@@ -17,25 +17,32 @@ public class CalculosTest {
         //Assert.assertEquals(esperado,atual,0);
   }
     @Test
-    public void retornarSomaQuandoValoresInformados(){
+    public void retornarSomaQuandoNumerosForemInformados(){
         Calculos numerosASomar = new Calculos();
-        double atual = numerosASomar.soma(150,450);
-        double esperado = 600;
-        Assertions.assertEquals(esperado, atual);
+        double atual = numerosASomar.soma(15,13);
+        double esperado = 28;
+        Assertions.assertEquals(esperado,atual);
         //Assert.assertEquals(esperado,atual,0);
-  }
-  @Test
-  public void verificaNumeroPar() {
-      Calculos paraVerificar = new Calculos();
-      boolean informaNumeroPar = paraVerificar.informaNumeroPar(4);
-      Assertions.assertTrue(informaNumeroPar);
-  }
-
-  @Test
-    public void retornaRaizQuadrada(){
-      Calculos numeroACalcular = new Calculos();
-      double atual = numeroACalcular.raizQuadradaDeDoisNumeros(144);
-      double esperado = 12;
-      Assertions.assertEquals(esperado, atual);
     }
+
+
+
+
+
+
+
+//  @Test
+//  public void verificaNumeroPar() {
+//      Calculos paraVerificar = new Calculos();
+//      boolean informaNumeroPar = paraVerificar.informaNumeroPar(4);
+//      Assertions.assertTrue(informaNumeroPar);
+//  }
+
+//  @Test
+//    public void retornaRaizQuadrada(){
+//      Calculos numeroACalcular = new Calculos();
+//      double atual = numeroACalcular.raizQuadradaDeDoisNumeros(144);
+//      double esperado = 12;
+//      Assertions.assertEquals(esperado, atual);
+//    }
 }

@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 Este projeto mostra o uso pontual da aplicação de Testes Unitários utilizando motor do JUnit 5 e o 4.
-O video ilustrativo no youtube, mostra o passo e melhor ainda é estar comentando onde ficam estes Testes observando pelos conceitos de Caixa Branca, Caixa Preta, Caixa cinza e claro, sobre a Pirãmide de Testes.
+O video ilustrativo no youtube, mostra o passo a passo, e melhor ainda é estar comentando onde ficam estes Testes observando pelos conceitos de Caixa Branca, Caixa Preta, Caixa cinza e claro, sobre a Pirâmide de Testes.
 
 Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g)
 
@@ -19,6 +19,7 @@ Vídeo do Projeto: https://youtu.be/yVXFJpJu7lc
 # Competências adquiridas
 * Entendimento da Pirâmide de Testes
 * Conhecimento sobre Caixa Preta, BRanca e Cinza
+* Entendimento da estrutura de testes unitários
 * Noção sobre cobertura de testes
 
 # Tecnologias utilizadas
