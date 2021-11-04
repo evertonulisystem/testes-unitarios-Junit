@@ -8,8 +8,10 @@ O video ilustrativo no youtube, mostra o passo e melhor ainda é estar comentand
 
 Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g)
 
+Vídeo do Projeto: https://youtu.be/yVXFJpJu7lc
+
 # Códigos implementados 
-* Soma de um número com valor ZARADO
+* Soma de um número com valor ZERADO
 * Soma de dois números 
 * Número par 
 * Raiz quadrada de um número
