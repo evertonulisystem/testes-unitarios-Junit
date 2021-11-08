@@ -25,25 +25,26 @@ public class CalculosTest {
         //Assert.assertEquals(esperado,atual,0);
     }
 
+  @Test
+  public void verificaNumeroPar() {
+      Calculos paraVerificar = new Calculos();
+      boolean informaNumeroPar = paraVerificar.informaNumeroPar(4);
+      Assertions.assertTrue(informaNumeroPar);
+  }
+
+    @Test
+    public void verificaNumeroImpar() {
+        Calculos paraVerificar = new Calculos();
+        boolean informaNumeroPar = paraVerificar.informaNumeroPar(3);
+        Assertions.assertFalse(informaNumeroPar);
+    }
 
 
-
-
-
-
-
-//  @Test
-//  public void verificaNumeroPar() {
-//      Calculos paraVerificar = new Calculos();
-//      boolean informaNumeroPar = paraVerificar.informaNumeroPar(4);
-//      Assertions.assertTrue(informaNumeroPar);
-//  }
-
-//  @Test
-//    public void retornaRaizQuadrada(){
-//      Calculos numeroACalcular = new Calculos();
-//      double atual = numeroACalcular.raizQuadradaDeDoisNumeros(144);
-//      double esperado = 12;
-//      Assertions.assertEquals(esperado, atual);
-//    }
+  @Test
+    public void retornaRaizQuadrada(){
+      Calculos numeroACalcular = new Calculos();
+      double atual = numeroACalcular.raizQuadradaDeDoisNumeros(144);
+      double esperado = 12;
+      Assertions.assertEquals(esperado, atual);
+    }
 }
