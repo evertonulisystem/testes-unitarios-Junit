@@ -8,7 +8,7 @@ O video ilustrativo no youtube, mostra o passo a passo, e melhor ainda é estar 
 
 Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g)
 
-Vídeo do Projeto: https://youtu.be/yVXFJpJu7lc
+Vídeo do Projeto: https://youtu.be/yVXFJpJu7lc e o https://youtu.be/nJkH091oRi4
 
 # Códigos implementados 
 * Soma de um número com valor ZERADO
@@ -20,7 +20,8 @@ Vídeo do Projeto: https://youtu.be/yVXFJpJu7lc
 * Entendimento da Pirâmide de Testes
 * Conhecimento sobre Caixa Preta, BRanca e Cinza
 * Entendimento da estrutura de testes unitários
-* Noção sobre cobertura de testes
+* Entendimento essencial de Cobertura de Código com os Testes
+* Visualização de evidência minima pelo HTML do projeto 
 
 # Tecnologias utilizadas
 - Java JDK11
